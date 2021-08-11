@@ -6,3 +6,7 @@
 ##Below is the output of my second project that is a ToDo List
 
 ![2021-07-25 (1)](https://user-images.githubusercontent.com/68181276/126905166-a25c1a4f-8970-481a-b088-e0ca409b3a88.png)
+
+##Below is the output of my third project that is a greeting site
+![2021-07-20](https://user-images.githubusercontent.com/68181276/129058443-98f1ec73-fc95-460a-9e31-e60a307ebb1b.png)
+
